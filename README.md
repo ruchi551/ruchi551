@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hi, I’m Ruchi Kumari, a Frontend Developer passionate about building responsive, user-friendly, and visually engaging web applications.</p>
+<p align="left">Hi, I’m Ruchi Kumari, a MERN stack Developer passionate about building responsive, user-friendly, and visually engaging web applications.</p>
 
 ###
 
@@ -12,7 +12,7 @@
 
 <br clear="both">
 
-<p align="left">🎓 MCA student at Shri Ramswaroop College of Engineering and Management.<br>🧩 Solved 200+ problems on LeetCode to strengthen problem-solving and DSA skills.<br>💻 Currently learning: Data Structures & Algorithms, MERN Stack  <br>🚀 Interested in: System Design, Backend Development, and Clean Architecture  <br>📚 Always learning and improving problem-solving skills  <br>🌱 Building projects to turn ideas into real-world applications</p>
+<p align="left">🎓 MCA student at Shri Ramswaroop College of Engineering and Management.<br>🧩 Solved 250+ problems on LeetCode to strengthen problem-solving and DSA skills.<br>💻 Currently learning: Data Structures & Algorithms, MERN Stack  <br>🚀 Interested in: System Design, Backend Development, and Clean Architecture  <br>📚 Always learning and improving problem-solving skills  <br>🌱 Building projects to turn ideas into real-world applications</p>
 
 ###
 
